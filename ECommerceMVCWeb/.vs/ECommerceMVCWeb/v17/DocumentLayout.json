@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d52cee1-a15c-42fd-8d30-faacc8d1dd02}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T03:29:31.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T03:25:35.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T03:20:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\wwwroot\\index.html",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\wwwroot\\index.html",
+              "RelativeToolTip": "ECommerceMVCWeb\\wwwroot\\index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-27T03:19:23.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
