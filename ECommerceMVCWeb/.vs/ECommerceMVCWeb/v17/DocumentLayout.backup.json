@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|d:\\repogit\\h-shop\\ecommercemvcweb\\ecommercemvcweb\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518AC06E-6439-4A69-B40E-0ED83E93996E}|ECommerceMVCWeb\\ECommerceMVCWeb.csproj|solutionrelative:ecommercemvcweb\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,54 +78,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "ECommerceMVCWeb\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEkAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T03:29:31.494Z",
+              "WhenOpened": "2025-03-27T10:00:12.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ECommerceMVCWeb\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerceMVCWeb\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:53:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T03:25:35.192Z",
+              "WhenOpened": "2025-03-27T09:55:04.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVCWeb\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:54:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "ECommerceMVCWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwBwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwEsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T03:20:12.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "ECommerceMVCWeb\\wwwroot\\index.html",
-              "ToolTip": "D:\\RepoGIT\\H-Shop\\ECommerceMVCWeb\\ECommerceMVCWeb\\wwwroot\\index.html",
-              "RelativeToolTip": "ECommerceMVCWeb\\wwwroot\\index.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-27T03:19:23.037Z",
+              "WhenOpened": "2025-03-27T09:51:22.911Z",
               "EditorCaption": ""
             }
           ]
